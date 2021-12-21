@@ -58,6 +58,13 @@ body {
   margin: -1px;
 }
 
+.container {
+  width: 1200px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin: 0 auto;
+}
+
 .logo {
   text-decoration: none;
   font-family: Raleway;
@@ -106,6 +113,8 @@ body {
 
 .hero {
   background-color: #2f303a;
+  padding-top: 200px;
+  padding-bottom: 200px;
 }
 .main-heading {
   font-weight: 900;
@@ -122,13 +131,16 @@ body {
   font-weight: 700;
   font-size: 16px;
   line-height: 1.88;
-  display: flex;
-  align-items: center;
-  text-align: center;
   letter-spacing: 0.06em;
   color: #ffffff;
   background: var(--accent-color);
 }
+
+.benefits {
+  padding-top: 94px;
+  padding-bottom: 0px;
+}
+
 .heading {
   font-weight: 700;
   font-size: 36px;
@@ -136,6 +148,8 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--title-text-color);
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 .andr-head {
   font-weight: 700;
@@ -162,6 +176,8 @@ body {
 }
 .section-team {
   background: #f5f4fa;
+  padding-top: 94px;
+  padding-bottom: 94px;
 }
 /* конец студии */
 /* портфолио */
@@ -206,6 +222,8 @@ body {
 /* Footer */
 .footer {
   background-color: #2f303a;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 .adress {
   text-decoration: none;

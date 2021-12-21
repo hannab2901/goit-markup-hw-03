@@ -134,7 +134,8 @@ body {
   letter-spacing: 0.06em;
   color: #ffffff;
   background: var(--accent-color);
-
+  margin-top: 30px;
+  margin-left: 700px;
 
 
 .benefits {

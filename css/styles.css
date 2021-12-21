@@ -115,6 +115,7 @@ body {
   background-color: #2f303a;
   padding-top: 200px;
   padding-bottom: 200px;
+  text-align: center;
 }
 .main-heading {
   font-weight: 900;
@@ -125,8 +126,9 @@ body {
   text-transform: uppercase;
   color: #ffffff;
 }
-/* КНОПКА!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! */
+
 .button {
+  font-family: inherit;
   cursor: pointer;
   font-weight: 700;
   font-size: 16px;
@@ -135,7 +137,6 @@ body {
   color: #ffffff;
   background: var(--accent-color);
   margin-top: 30px;
-  margin-left: 700px;
 }
 
 .benefits {
@@ -185,7 +186,7 @@ body {
 /* портфолио */
 
 .btn-portfolio {
-  font-family: Roboto;
+  font-family: inherit;
   cursor: pointer;
   font-weight: 500;
   font-size: 16px;

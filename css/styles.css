@@ -82,6 +82,13 @@ body {
   color: #ffffff;
 }
 
+.header-nav {
+  display: flex;
+}
+.header-inf {
+  display: flex;
+}
+
 .nav {
   text-decoration: none;
   font-weight: 500;

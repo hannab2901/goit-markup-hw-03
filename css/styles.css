@@ -57,12 +57,13 @@ body {
   clip-path: inset(50%);
   margin: -1px;
 }
-
+/* ТИМЧАСОВИЙ задній фон*/
 .container {
   width: 1200px;
   padding-left: 15px;
   padding-right: 15px;
   margin: 0 auto;
+  background-color: rgb(153, 248, 153);
 }
 
 .logo {

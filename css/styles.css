@@ -296,9 +296,6 @@ body {
 .project li {
   margin-right: 30px;
   margin-bottom: 30px;
-  background: #ffffff;
-  border: 1px solid #eeeeee;
-  box-sizing: border-box;
 }
 
 .project li:nth-child(3n) {

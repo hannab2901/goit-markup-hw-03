@@ -87,7 +87,6 @@ body {
 .header {
   display: flex;
   align-items: center;
-  border: 1px solid #ececec;
 }
 .header-ul {
   display: flex;
@@ -138,6 +137,9 @@ body {
   color: var(--accent-color);
 }
 /* Студия */
+.border {
+  border: 1px solid #ececec;
+}
 
 .hero {
   background-color: #2f303a;

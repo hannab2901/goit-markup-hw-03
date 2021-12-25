@@ -350,9 +350,6 @@ body {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: #ffffff;
-
-  padding-top: 20px;
-  padding-bottom: 9px;
 }
 .adress:hover,
 .adress:focus {
@@ -368,4 +365,10 @@ body {
 .info-footer:hover,
 .info-footer:focus {
   color: var(--accent-color);
+}
+.footer-list {
+  padding-top: 9px;
+}
+.adres-pading {
+  padding-top: 20px;
 }

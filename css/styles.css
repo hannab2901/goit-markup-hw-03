@@ -198,7 +198,7 @@ body {
   text-align: center;
   letter-spacing: 0.03em;
   color: var(--title-text-color);
-  padding-bottom: 50px;
+  margin-bottom: 50px;
 }
 
 .process {
